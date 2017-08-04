@@ -1,7 +1,3 @@
-/*
-External Radio
-*/
-
 #include <i2c_t3.h> //Include I2C library instead of the wire library
 #include <LiquidCrystal_I2C.h> //liquid crystal i2c library
 #include <Bounce.h> //Button debounce library
